@@ -1,2 +1,2 @@
 # major-project
-major project
+major project of college 
